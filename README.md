@@ -2,7 +2,7 @@
 An Android app thas scan domains and networks :mag_right: :iphone:
 
 ## English
-NetScan is a proof of concept of Nmap integration, used as a prototype in [my Final Year Project](https://github.com/ander94lakx/TFG_Doc), that seeks to be a proof of concept of integration of a hacking tool in a simple and intuitive UI. It consists of an application developed for Android using Kotlin, and currently contains basic functionality.
+NetScan is a proof of concept of Nmap integration, used as a prototype in (https://github.com/ander94lakx/TFG_Doc), that seeks to be a proof of concept of integration of a hacking tool in a simple and intuitive UI. It consists of an application developed for Android using Kotlin, and currently contains basic functionality.
 
 Within the future development is intended, among others:
 - Integrate a mode for root users, which allows to obtain more information.
